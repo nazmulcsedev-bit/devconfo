@@ -393,18 +393,6 @@
     transform:translateY(-3px);
 }
 
-@media(max-width:768px){
-
-    .faq-container{
-        grid-template-columns:1fr;
-    }
-
-    .faq-header h2{
-        font-size:36px;
-    }
-
-}
-
 .footer{
     background:#0F172A;
     padding:45px 80px 25px;
