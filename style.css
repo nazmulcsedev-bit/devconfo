@@ -91,3 +91,72 @@
    margin-right: 50px;
    margin-top: 220px;
 }
+.speakers-section{
+    padding: 40px;
+}
+.speakers-section h1{
+
+    justify-content: center; 
+    align-items: center;     
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+.speakers{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+    
+}
+.speaker-1 img{
+    border-radius: 10px 10px 0px 0px;
+}
+.speaker-1{
+     margin: 20px;
+     border: 1px solid #dad7d7;
+    border-radius: 20px;
+     
+    
+}
+.speaker-1 h6{
+    color: #1D4ED8;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 30px;
+
+
+}
+.speaker-1 p{
+    color: #575757;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    
+    margin-bottom: 30px;
+    margin-left: 10px;
+    
+
+}
+.speaker-1 h4{
+    
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+    
+    
+
+}
+
+.offer-section{
+    
+}
